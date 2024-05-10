@@ -6,16 +6,16 @@
 
 <B>LANGUAGES:</B> Python, Java, Javascript.
 
-<br><B>HOSTING/SaaS:</B> AWS, Google Cloud, Heroku, GithubPages.
+<B>HOSTING/SaaS:</B> AWS, Google Cloud, Heroku, GithubPages.
 
-<br><B>FRAMEWORKS & LIBRARIES:</B> Django, Flask, NodeJS, Express.js, React, jQuery, Spring.
+<B>FRAMEWORKS & LIBRARIES:</B> Django, Flask, NodeJS, Express.js, React, jQuery, Spring.
 
-<br><B>DATABASES:</B> MySQL, Oracle, SQLite, Postgres, PL/SQL, NoSQL, MongoDB, MicrosoftSQLServer.
+<B>DATABASES:</B> MySQL, Oracle, SQLite, Postgres, PL/SQL, NoSQL, MongoDB, MicrosoftSQLServer.
 
-<br><B>MACHINE LEARNING:</B> Regression, Classification, Clustering, NumPy, Pandas, Matplotlib, SciPy, Seaborn, Sklearn, PyTorch, Tensorflow.
+<B>MACHINE LEARNING:</B> Regression, Classification, Clustering, NumPy, Pandas, Matplotlib, SciPy, Seaborn, Sklearn, PyTorch, Tensorflow.
 
-<br><B>TOOLS:</B> Git, GitHub, Docker, Jenkins, JIRA, Confluence, Postman, Gradle, Linux, MacOS, Windows.
+<B>TOOLS:</B> Git, GitHub, Docker, Jenkins, JIRA, Confluence, Postman, Gradle, Linux, MacOS, Windows.
 
-<br><B>TECHNIQUES:</B> Object Oriented Design, Data Structures, Algorithms, APIs, REST, Automation, Agile Methodologies, Scrum, SDLC, Software Engineering, Software Testing Methodologies, Debugging, Software Documentation.
+<B>TECHNIQUES:</B> Object Oriented Design, Data Structures, Algorithms, APIs, REST, Automation, Agile Methodologies, Scrum, SDLC, Software Engineering, Software Testing Methodologies, Debugging, Software Documentation.
 
 
